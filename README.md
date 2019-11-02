@@ -1,6 +1,17 @@
 # papers_of_interest
 Interesting papers I've read or ideally will read, given enough time.
 
+## General AI
+
+__The Seven Tools of Causal Inference, with Reflections on Machine Learning__<br/>
+_Judea Pearl_<br/>
+2019 https://dl.acm.org/citation.cfm?id=3241036
+<details>
+<summary>Intro paragraph</summary>
+The dramatic success in machine learning has led to an explosion of artificial intelligence (AI) applications and increasing expectations for autonomous systems that exhibit human-level intelligence. These expectations have, however, met with fundamental obstacles that cut across many application areas. One such obstacle is adaptability, or robustness. Machine learning researchers have noted current systems lack the ability to recognize or react to new circumstances they have not been specifically programmed or trained for.
+</details>
+
+
 ## Deep learning
 
 ## Spiking neural networks
