@@ -5,8 +5,8 @@ Papers I'd ideally read, given enough time.
 
 ## Spiking neural networks
 
-Title: __Towards Scalable, Efficient and Accurate Deep Spiking Neural Networks with Backward Residual Connections, Stochastic Softmax and Hybridization__<br/>
-Authors: __Priyadarshini Panda, Aparna Aketi, and Kaushik Roy__<br/>
+__Towards Scalable, Efficient and Accurate Deep Spiking Neural Networks with Backward Residual Connections, Stochastic Softmax and Hybridization__<br/>
+_Priyadarshini Panda, Aparna Aketi, and Kaushik Roy__<br/>
 https://arxiv.org/abs/1910.13931
 <details>
 <summary>Abstract</summary>
@@ -31,12 +31,10 @@ datatsets.
 </details>
 
 
-
-
 ## Neuroscience-inspired neural networks
 
-Title: __Working memory facilitates reward-modulated Hebbian learning in recurrent neural networks__<br/>
-Authors: __Roman Pogodin, Dane Corneil, Alexander Seeholzer, Joseph Heng, Wulfram Gerstner__<br/>
+__Working memory facilitates reward-modulated Hebbian learning in recurrent neural networks__<br/>
+_Roman Pogodin, Dane Corneil, Alexander Seeholzer, Joseph Heng, Wulfram Gerstner_<br/>
 https://arxiv.org/abs/1910.10559
 <details>
 <summary>Abstract</summary>
@@ -52,8 +50,8 @@ performs as well as FORCE learning, but with the advantage of a biologically
 plausible interpretation of both the learning rule and the learning paradigm.
 </details>
 
-Title: __CTNN: Corticothalamic-inspired neural network__<br/>
-Authors: __Leendert A Remmelzwaal, Amit Mishra, George F R Ellis__<br/>
+__CTNN: Corticothalamic-inspired neural network__<br/>
+_Leendert A Remmelzwaal, Amit Mishra, George F R Ellis_<br/>
 https://arxiv.org/abs/1910.12492
 <details>
 <summary>Abstract</summary>
@@ -79,7 +77,24 @@ degree of autonomous behaviour while completing complex tasks such as driving a
 car.
 </details>
 
-## Artificial life and open-ended evolution
+## Neuroevolution, artificial life and open-ended evolution
+
+__Convolution by Evolution: Differentiable Pattern Producing Networks__<br/>
+_Chrisantha Fernando, Dylan Banarse, Malcolm Reynolds et al._<br/>
+https://dl.acm.org/citation.cfm?id=2908890
+<details>
+<summary>Abstract</summary>
+In this work we introduce a differentiable version of the Compositional Pattern Producing Network, called the DPPN. Unlike a standard CPPN, the topology of a DPPN is evolved but the weights are learned. A Lamarckian algorithm, that combines evolution and learning, produces DPPNs to reconstruct an image. Our main result is that DPPNs can be evolved/trained to compress the weights of a denoising autoencoder from 157684 to roughly 200 parameters, while achieving a reconstruction accuracy comparable to a fully connected network with more than two orders of magnitude more parameters. The regularization ability of the DPPN allows it to rediscover (approximate) convolutional network architectures embedded within a fully connected architecture. Such convolutional architectures are the current state of the art for many computer vision applications, so it is satisfying that DPPNs are capable of discovering this structure rather than having to build it in by design. DPPNs exhibit better generalization when tested on the Omniglot dataset after being trained on MNIST, than directly encoded fully connected autoencoders. DPPNs are therefore a new framework for integrating learning and evolution.
+</details>
+
 
 ## Neuroscience
+
+__The Cell-Type Specific Cortical Microcircuit: Relating Structure and Activity in a Full-Scale Spiking Network Model__<br/>
+_Tobias C. Potjans, Markus Diesmann_<br/>
+<details>
+<summary>Abstract</summary>
+In the past decade, the cell-type specific connectivity and activity of local cortical networks have been characterized experimentally to some detail. In parallel, modeling has been established as a tool to relate network structure to activity dynamics. While available comprehensive connectivity maps ( Thomson, West, et al. 2002; Binzegger et al. 2004) have been used in various computational studies, prominent features of the simulated activity such as the spontaneous firing rates do not match the experimental findings. Here, we analyze the properties of these maps to compile an integrated connectivity map, which additionally incorporates insights on the specific selection of target types. Based on this integrated map, we build a full-scale spiking network model of the local cortical microcircuit. The simulated spontaneous activity is asynchronous irregular and cell-type specific firing rates are in agreement with in vivo recordings in awake animals, including the low rate of layer 2/3 excitatory cells. The interplay of excitation and inhibition captures the flow of activity through cortical layers after transient thalamic stimulation. In conclusion, the integration of a large body of the available connectivity data enables us to expose the dynamical consequences of the cortical microcircuitry.
+</details>
+
 
