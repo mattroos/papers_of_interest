@@ -109,4 +109,26 @@ _Tobias C. Potjans, Markus Diesmann_<br/>
 In the past decade, the cell-type specific connectivity and activity of local cortical networks have been characterized experimentally to some detail. In parallel, modeling has been established as a tool to relate network structure to activity dynamics. While available comprehensive connectivity maps ( Thomson, West, et al. 2002; Binzegger et al. 2004) have been used in various computational studies, prominent features of the simulated activity such as the spontaneous firing rates do not match the experimental findings. Here, we analyze the properties of these maps to compile an integrated connectivity map, which additionally incorporates insights on the specific selection of target types. Based on this integrated map, we build a full-scale spiking network model of the local cortical microcircuit. The simulated spontaneous activity is asynchronous irregular and cell-type specific firing rates are in agreement with in vivo recordings in awake animals, including the low rate of layer 2/3 excitatory cells. The interplay of excitation and inhibition captures the flow of activity through cortical layers after transient thalamic stimulation. In conclusion, the integration of a large body of the available connectivity data enables us to expose the dynamical consequences of the cortical microcircuitry.
 </details>
 
+__Cortical credit assignment by Hebbian, neuromodulatory and inhibitory
+  plasticity__<br/>
+_Johnatan Aljadeff, James D'amour, Rachel E. Field, Robert C. Froemke, Claudia Clopath_<br/>
+2019 https://arxiv.org/abs/1911.00307
+<details>
+<summary>Abstract</summary>
+The cortex learns to make associations between stimuli and spiking activity
+which supports behaviour. It does this by adjusting synaptic weights. The
+complexity of these transformations implies that synapses have to change
+without access to the full error information, a problem typically referred to
+as "credit-assignment". However, it remains unknown how the cortex solves this
+problem. We propose that a combination of plasticity rules, 1) Hebbian, 2)
+acetylcholine-dependent and 3) noradrenaline-dependent excitatory plasticity,
+together with 4) inhibitory plasticity restoring E/I balance, effectively
+solves the credit assignment problem. We derive conditions under-which a neuron
+model can learn a number of associations approaching its theoretical capacity.
+We confirm our predictions regarding acetylcholine-dependent and inhibitory
+plasticity by reanalysing experimental data. Our work suggests that detailed
+cortical E/I balance reduces the dimensionality of the problem of associating
+inputs with outputs, thereby allowing imperfect "supervision" by
+neuromodulatory systems to guide learning effectively.
+</details>
 
