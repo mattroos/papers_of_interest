@@ -14,6 +14,24 @@ The dramatic success in machine learning has led to an explosion of artificial i
 
 ## Deep learning
 
+__Learning Algorithmic Solutions to Symbolic Planning Tasks with a Neural Computer__<br/>
+_Daniel Tanneberg, Elmar Rueckert, Jan Peters_<br/>
+2019 https://arxiv.org/abs/1911.00926
+<details>
+<summary>Abstract</summary>
+A key feature of intelligent behavior is the ability to learn abstract
+strategies that transfer to unfamiliar problems. Therefore, we present a novel
+architecture, based on memory-augmented networks, that is inspired by the von
+Neumann and Harvard architectures of modern computers. This architecture
+enables the learning of abstract algorithmic solutions via Evolution Strategies
+in a reinforcement learning setting. Applied to Sokoban, sliding block puzzle
+and robotic manipulation tasks, we show that the architecture can learn
+algorithmic solutions with strong generalization and abstraction: scaling to
+arbitrary task configurations and complexities, and being independent of both
+the data representation and the task domain.
+</details>
+
+
 ## Spiking neural networks
 
 __Towards Scalable, Efficient and Accurate Deep Spiking Neural Networks with Backward Residual Connections, Stochastic Softmax and Hybridization__<br/>
