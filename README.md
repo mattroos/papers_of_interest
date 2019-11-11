@@ -12,6 +12,15 @@ The dramatic success in machine learning has led to an explosion of artificial i
 </details>
 
 
+__Homeostasis and soft robotics in the design of feeling machines__<br/>
+_Kingson Man, Antonio Damasio<br/>
+2019 https://www.nature.com/articles/s42256-019-0103-7
+<details>
+<summary>Abstract</summary>
+Attempts to create machines that behave intelligently often conceptualize intelligence as the ability to achieve goals, leaving unanswered a crucial question: whose goals? In a dynamic and unpredictable world, an intelligent agent should hold its own meta-goal of self-preservation, like living organisms whose survival relies on homeostasis: the regulation of body states aimed at maintaining conditions compatible with life. In organisms capable of mental states, feelings are a mental expression of the state of life in the body and play a critical role in regulating behaviour. Our goal here is to inquire about conditions that would potentially allow machines to care about what they do or think. Under certain conditions, machines capable of implementing a process resembling homeostasis might also acquire a source of motivation and a new means to evaluate behaviour, akin to that of feelings in living organisms. Drawing on recent developments in soft robotics and multisensory abstraction, we propose a new class of machines inspired by the principles of homeostasis. The resulting machines would (1) exhibit equivalents to feeling; (2) improve their functionality across a range of environments; and (3) constitute a platform for investigating consciousness, intelligence and the feeling process itself.
+</details>
+
+
 ## Deep learning
 
 __Learning Algorithmic Solutions to Symbolic Planning Tasks with a Neural Computer__<br/>
