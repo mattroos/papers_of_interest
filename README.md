@@ -13,7 +13,7 @@ The dramatic success in machine learning has led to an explosion of artificial i
 
 
 __Homeostasis and soft robotics in the design of feeling machines__<br/>
-_Kingson Man, Antonio Damasio<br/>
+_Kingson Man, Antonio Damasio_<br/>
 2019 https://www.nature.com/articles/s42256-019-0103-7
 <details>
 <summary>Abstract</summary>
